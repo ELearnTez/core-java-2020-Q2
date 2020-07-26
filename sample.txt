@@ -4,4 +4,12 @@ This is my Second commit - Line2
 
 This is my Third commit - Line3
 
+<<<<<<< HEAD
 This is my fourth commit - Line4
+=======
+This is my Fourth commit - Line4
+
+This is jeswin commit - Line5
+>>>>>>> branch 'master' of https://github.com/ELearnTez/core-java-2020-Q2.git
+
+This is Immanuel commit -  Line 6
