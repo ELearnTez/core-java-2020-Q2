@@ -2,4 +2,6 @@ This is my Very First Interaction with Git - Line1
 
 This is my Second commit - Line2
 
-This is my Third commit - Line2
+This is my Third commit - Line3
+
+This is my Fourth commit - Line4
