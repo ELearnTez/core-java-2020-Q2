@@ -12,4 +12,4 @@ This is my Fourth commit - Line4
 This is jeswin commit - Line5
 >>>>>>> branch 'master' of https://github.com/ELearnTez/core-java-2020-Q2.git
 
-This is Immanuel commit -  Line 6
+This is Immanuel Prasad commit -  Line 6
