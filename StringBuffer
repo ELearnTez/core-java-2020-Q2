@@ -1,0 +1,14 @@
+package com.rashmitech.corejava.string;
+
+public class StringDemo1 {
+
+	public static void main(String[] args) {
+		StringBuilder message=new StringBuilder("Hello");
+		message.append(",");
+		message.append(",");
+		message.append(",");
+System.out.println(message);
+	}
+
+}
+//Hello,,,
