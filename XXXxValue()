@@ -1,0 +1,19 @@
+1)public int intValue();
+  Double d=new Double(10.5);
+  int i=d.intValue();
+  
+ 2)public short shortValue();
+  Double d=new Double(10.5);
+  short s=d.shortValue();
+  
+ 3)public long longValue();
+  Double d=new Double(10.5);
+  long l=d.longValue();
+  
+ 4)private float floatValue();
+  Double d=new Double(10.5);
+  float f=d.floatValue();
+  
+ 5)private double doubleValue();
+  Double d=new Double(10.5);
+  double d1=d.doubleValue();
